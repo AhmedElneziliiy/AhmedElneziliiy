@@ -64,6 +64,7 @@ I'm a **.NET Backend Developer** focused on building clean, well-architected web
 | [📍 GPS Face Attendance API](https://github.com/AhmedElneziliiy/GPS-Face-Attendance-API) | Attendance tracking with GPS location verification and biometric face authentication | ASP.NET Core · EF Core · JWT · GPS |
 | [🛒 Fullstack E-Commerce App](https://github.com/AhmedElneziliiy/Fullstack-Ecommerce-App) | Complete e-commerce with product catalog, Redis basket, Stripe payments, and Angular frontend | ASP.NET Core · Angular · Redis · Identity |
 | [💬 Dating App](https://github.com/AhmedElneziliiy/Dating-App) | Social platform with real-time messaging, presence tracking, photo upload, and like system | ASP.NET Core · Angular · SignalR · Cloudinary |
+| [🏗️ EPADP Drainage Management System](https://github.com/AhmedElneziliiy/EPADP-Drainage-Management-System) | Enterprise drainage infrastructure management with GIS/ArcGIS integration, field investigations, multi-step approval workflows, and bilingual (AR/EN) support | ASP.NET Core MVC · EF Core · ArcGIS · BAL/DAL |
 
 ---
 
